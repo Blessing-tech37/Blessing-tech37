@@ -38,13 +38,13 @@
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter%Notebook-181717?style=for-the-badge&logo=jupyter%notebook">
+  <img src="https://img.shields.io/badge/JupyterNotebook-181717?style=for-the-badge&logo=jupyternotebook">
 </p>
 
 ### Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows-181717?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/mac%os-181717?style=for-the-badge&logo=mac%os">
+  <img src="https://img.shields.io/badge/macos-181717?style=for-the-badge&logo=macos">
 </p>
 
 ## Connect With Me
